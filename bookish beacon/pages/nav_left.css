@@ -1,0 +1,54 @@
+.nav-left .explore {
+  overflow-wrap: break-word;
+  font-family: var(--bodymedium-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodymedium-font-weight, 500);
+  font-size: var(--bodymedium-font-size, 18px);
+  line-height: var(--bodymedium-line-height, 1.556);
+  color: #121826;
+}
+.nav-left .item-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.nav-left .drops {
+  overflow-wrap: break-word;
+  font-family: var(--bodymedium-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodymedium-font-weight, 500);
+  font-size: var(--bodymedium-font-size, 18px);
+  line-height: var(--bodymedium-line-height, 1.556);
+  color: #121826;
+}
+.nav-left .item-11 {
+  display: flex;
+  box-sizing: border-box;
+}
+.nav-left .stats {
+  overflow-wrap: break-word;
+  font-family: var(--bodymedium-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodymedium-font-weight, 500);
+  font-size: var(--bodymedium-font-size, 18px);
+  line-height: var(--bodymedium-line-height, 1.556);
+  color: #121826;
+}
+.nav-left .item-12 {
+  display: flex;
+  box-sizing: border-box;
+}
+.nav-left .learn-more {
+  overflow-wrap: break-word;
+  font-family: var(--bodymedium-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodymedium-font-weight, 500);
+  font-size: var(--bodymedium-font-size, 18px);
+  line-height: var(--bodymedium-line-height, 1.556);
+  color: #121826;
+}
+.nav-left .item-13 {
+  display: flex;
+  box-sizing: border-box;
+}
+.nav-left {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  box-sizing: border-box;
+}

@@ -1,0 +1,196 @@
+.metrics-section .marble-greek-goddess-themis-wearing-crown-with-wings-removebg-preview-2 {
+  mix-blend-mode: overlay;
+  background: linear-gradient(180deg, #9077F7 12.4%, #76C3C8 100%), url('../assets/images/marble_greek_goddess_themis_wearing_crown_with_wings_removebg_preview_2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: 50%;
+  bottom: 0px;
+  translate: -50% 0;
+  width: 580px;
+  height: 582px;
+}
+.metrics-section .container {
+  background: url('../assets/images/marble_greek_goddess_themis_wearing_crown_with_wings_133.png') 50% / cover no-repeat;
+  position: relative;
+  margin: 100px 96px 0 0;
+  width: 580px;
+  height: 582px;
+}
+.metrics-section .subheading {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodysemibold-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodysemibold-font-weight, 600);
+  font-size: var(--bodysemibold-font-size, 18px);
+  line-height: var(--bodysemibold-line-height, 1.556);
+  color: #7A52F4;
+}
+.metrics-section .heading {
+  overflow-wrap: break-word;
+  font-family: var(--title-2-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--title-2-font-weight, 700);
+  font-size: var(--title-2-font-size, 44px);
+  line-height: var(--title-2-line-height, 1.273);
+  color: #121826;
+}
+.metrics-section .heading-and-supporting-text {
+  margin-bottom: 64px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.metrics-section .number {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--title-1-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--title-1-font-weight, 700);
+  font-size: var(--title-1-font-size, 64px);
+  line-height: var(--title-1-line-height, 1.188);
+  text-transform: var(--title-1-text-transform, capitalize);
+  background: linear-gradient(95.53deg, #7DA4FD -24.6%, #DB6DFF 90.9%);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.metrics-section .text {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodymedium-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodymedium-font-weight, 500);
+  font-size: var(--bodymedium-font-size, 18px);
+  line-height: var(--bodymedium-line-height, 1.556);
+  color: #404653;
+}
+.metrics-section .metric-item {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.metrics-section .number-1 {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--title-1-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--title-1-font-weight, 700);
+  font-size: var(--title-1-font-size, 64px);
+  line-height: var(--title-1-line-height, 1.188);
+  text-transform: var(--title-1-text-transform, capitalize);
+  background: linear-gradient(80.2deg, #7DCFFD -8.4%, #C86DFF 96.2%);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.metrics-section .text-1 {
+  margin-right: 11.5px;
+  overflow-wrap: break-word;
+  font-family: var(--bodymedium-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodymedium-font-weight, 500);
+  font-size: var(--bodymedium-font-size, 18px);
+  line-height: var(--bodymedium-line-height, 1.556);
+  color: #404653;
+}
+.metrics-section .metric-item-1 {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.metrics-section .row {
+  position: relative;
+  margin-bottom: 48px;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.metrics-section .number-2 {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--title-1-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--title-1-font-weight, 700);
+  font-size: var(--title-1-font-size, 64px);
+  line-height: var(--title-1-line-height, 1.188);
+  text-transform: var(--title-1-text-transform, capitalize);
+  background: linear-gradient(87.36deg, #7DCFFD -15%, #C86DFF 97.6%);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.metrics-section .text-2 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodymedium-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodymedium-font-weight, 500);
+  font-size: var(--bodymedium-font-size, 18px);
+  line-height: var(--bodymedium-line-height, 1.556);
+  color: #404653;
+}
+.metrics-section .metric-item-2 {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.metrics-section .number-3 {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--title-1-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--title-1-font-weight, 700);
+  font-size: var(--title-1-font-size, 64px);
+  line-height: var(--title-1-line-height, 1.188);
+  text-transform: var(--title-1-text-transform, capitalize);
+  background: linear-gradient(74.8deg, #7DA4FD 24.5%, #DB6DFF 95.3%);
+  color: transparent;
+  background-clip: text;
+  -webkit-background-clip: text;
+}
+.metrics-section .text-3 {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodymedium-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodymedium-font-weight, 500);
+  font-size: var(--bodymedium-font-size, 18px);
+  line-height: var(--bodymedium-line-height, 1.556);
+  color: #404653;
+}
+.metrics-section .metric-item-3 {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.metrics-section .row-1 {
+  position: relative;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.metrics-section .content-1 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.metrics-section .content {
+  margin: 143px 0 43px 0;
+  display: flex;
+  flex-direction: column;
+  width: 445.1px;
+  box-sizing: border-box;
+}
+.metrics-section {
+  background: linear-gradient(180deg, #F5F6FA 27%, rgba(245, 246, 250, 0) 102.7%);
+  display: flex;
+  flex-direction: row;
+  padding: 100px 0 100px 120px;
+  width: 1440px;
+  box-sizing: border-box;
+}

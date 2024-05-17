@@ -1,0 +1,364 @@
+.footer-1 .marketplace {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-bold-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-bold-font-weight, 700);
+  font-size: var(--caption-2-bold-font-size, 14px);
+  line-height: var(--caption-2-bold-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .all-literary-works {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-regular-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-regular-font-weight, 400);
+  font-size: var(--caption-2-regular-font-size, 14px);
+  line-height: var(--caption-2-regular-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .collectibles {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-regular-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-regular-font-weight, 400);
+  font-size: var(--caption-2-regular-font-size, 14px);
+  line-height: var(--caption-2-regular-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .ul-4 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.footer-1 .ul-3 {
+  margin: 0 89.9px 44px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.footer-1 .my-account {
+  margin-bottom: 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-bold-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-bold-font-weight, 700);
+  font-size: var(--caption-2-bold-font-size, 14px);
+  line-height: var(--caption-2-bold-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .profile {
+  margin: 0 9.8px 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-regular-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-regular-font-weight, 400);
+  font-size: var(--caption-2-regular-font-size, 14px);
+  line-height: var(--caption-2-regular-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .create {
+  margin: 0 9.3px 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-regular-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-regular-font-weight, 400);
+  font-size: var(--caption-2-regular-font-size, 14px);
+  line-height: var(--caption-2-regular-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .settings {
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-regular-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-regular-font-weight, 400);
+  font-size: var(--caption-2-regular-font-size, 14px);
+  line-height: var(--caption-2-regular-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .ul-6 {
+  margin-right: 19.2px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.footer-1 .ul-5 {
+  margin: 0 117.4px 6px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.footer-1 .stats {
+  margin-bottom: 16px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-bold-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-bold-font-weight, 700);
+  font-size: var(--caption-2-bold-font-size, 14px);
+  line-height: var(--caption-2-bold-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .rankings {
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-regular-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-regular-font-weight, 400);
+  font-size: var(--caption-2-regular-font-size, 14px);
+  line-height: var(--caption-2-regular-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .ul-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.footer-1 .ul {
+  margin: 0 12.8px 26px 0;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.footer-1 .learn-more {
+  margin-bottom: 16px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-bold-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-bold-font-weight, 700);
+  font-size: var(--caption-2-bold-font-size, 14px);
+  line-height: var(--caption-2-bold-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .learn {
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-regular-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-regular-font-weight, 400);
+  font-size: var(--caption-2-regular-font-size, 14px);
+  line-height: var(--caption-2-regular-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .ul-8 {
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.footer-1 .ul-7 {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.footer-1 .ul-2 {
+  margin-right: 118.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.footer-1 .company {
+  margin: 0 7.6px 16px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-bold-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-bold-font-weight, 700);
+  font-size: var(--caption-2-bold-font-size, 14px);
+  line-height: var(--caption-2-bold-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .about-us {
+  margin: 0 10.3px 18px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-regular-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-regular-font-weight, 400);
+  font-size: var(--caption-2-regular-font-size, 14px);
+  line-height: var(--caption-2-regular-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .contact-us {
+  margin-bottom: 18px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-regular-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-regular-font-weight, 400);
+  font-size: var(--caption-2-regular-font-size, 14px);
+  line-height: var(--caption-2-regular-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .support {
+  margin-right: 16px;
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-regular-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-regular-font-weight, 400);
+  font-size: var(--caption-2-regular-font-size, 14px);
+  line-height: var(--caption-2-regular-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .ul-10 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.footer-1 .ul-9 {
+  margin-bottom: 6px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.footer-1 .sections {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.footer-1 .join-our-community {
+  margin-bottom: 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-bold-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-bold-font-weight, 700);
+  font-size: var(--caption-2-bold-font-size, 14px);
+  line-height: var(--caption-2-bold-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .vector-3 {
+  width: 24px;
+  height: 23.9px;
+}
+.footer-1 .social-3 {
+  margin-bottom: 0.1px;
+  display: flex;
+  width: 24px;
+  height: 23.9px;
+  box-sizing: border-box;
+}
+.footer-1 .vector-2 {
+  width: 22px;
+  height: 19.9px;
+}
+.footer-1 .social-2 {
+  margin: 1.9px 0 2.2px 0;
+  display: flex;
+  width: 22px;
+  height: 19.9px;
+  box-sizing: border-box;
+}
+.footer-1 .vector {
+  width: 24px;
+  height: 24px;
+}
+.footer-1 .social {
+  margin-bottom: 0px;
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.footer-1 .vector-1 {
+  width: 24px;
+  height: 24px;
+}
+.footer-1 .social-1 {
+  display: flex;
+  width: 24px;
+  height: 24px;
+  box-sizing: border-box;
+}
+.footer-1 .socials {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 171px;
+  box-sizing: border-box;
+}
+.footer-1 .sections-1 {
+  margin-bottom: 74px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.footer-1 .footer-1 {
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1200px;
+  box-sizing: border-box;
+}
+.footer-1 .inktrade-inc-all-right-reserved {
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-regular-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-regular-font-weight, 400);
+  font-size: var(--caption-2-regular-font-size, 14px);
+  line-height: var(--caption-2-regular-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .sections-4 {
+  display: flex;
+  box-sizing: border-box;
+}
+.footer-1 .privacy-policy {
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-regular-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-regular-font-weight, 400);
+  font-size: var(--caption-2-regular-font-size, 14px);
+  line-height: var(--caption-2-regular-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .li {
+  display: flex;
+  box-sizing: border-box;
+}
+.footer-1 .terms-of-service {
+  overflow-wrap: break-word;
+  font-family: var(--caption-2-regular-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--caption-2-regular-font-weight, 400);
+  font-size: var(--caption-2-regular-font-size, 14px);
+  line-height: var(--caption-2-regular-line-height, 1.429);
+  color: #404653;
+}
+.footer-1 .li-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.footer-1 .sections-5 {
+  margin-right: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 196.7px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.footer-1 .sections-3 {
+  border-top: 1px solid #DAE0E9;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 19px 11.3px 20px 0;
+  width: 1200px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.footer-1 .sections-2 {
+  display: flex;
+  width: 1200px;
+  box-sizing: border-box;
+}
+.footer {
+  border-top: 1px solid #DAE0E9;
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 49px 120px 0 120px;
+  width: 1440px;
+  box-sizing: border-box;
+}

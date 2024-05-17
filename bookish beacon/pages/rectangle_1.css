@@ -1,0 +1,10 @@
+.rectangle-1 .rectangle-11 {
+  background: #FFFFFF;
+  width: 1440px;
+  height: 80px;
+}
+.rectangle-1 {
+  display: flex;
+  width: 1440px;
+  box-sizing: border-box;
+}

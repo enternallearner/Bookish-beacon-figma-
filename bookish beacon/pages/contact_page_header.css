@@ -1,0 +1,252 @@
+.contact-page-header .illustrations-contact-us {
+  width: 581px;
+  height: 362px;
+}
+.contact-page-header .image {
+  margin: 158px 91px 158px 0;
+  display: flex;
+  width: 581px;
+  height: 362px;
+  box-sizing: border-box;
+}
+.contact-page-header .supporting-text {
+  margin-bottom: 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodysemibold-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodysemibold-font-weight, 600);
+  font-size: var(--bodysemibold-font-size, 18px);
+  line-height: var(--bodysemibold-line-height, 1.556);
+  color: #7A52F4;
+}
+.contact-page-header .heading {
+  margin-bottom: 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--title-3-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--title-3-font-weight, 600);
+  font-size: var(--title-3-font-size, 30px);
+  line-height: var(--title-3-line-height, 1.267);
+  color: #121826;
+}
+.contact-page-header .supporting-text-1 {
+  overflow-wrap: break-word;
+  font-family: var(--bodymedium-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodymedium-font-weight, 500);
+  font-size: var(--bodymedium-font-size, 18px);
+  line-height: var(--bodymedium-line-height, 1.556);
+  color: #808187;
+}
+.contact-page-header .heading-and-supporting-text {
+  margin-bottom: 32px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page-header .label {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodymedium-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodymedium-font-weight, 500);
+  font-size: var(--bodymedium-font-size, 18px);
+  line-height: var(--bodymedium-line-height, 1.556);
+  color: #121826;
+}
+.contact-page-header .text-1 {
+  overflow-wrap: break-word;
+  font-family: var(--bodyregular-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodyregular-font-weight, 400);
+  font-size: var(--bodyregular-font-size, 18px);
+  line-height: var(--bodyregular-line-height, 1.556);
+  color: #808187;
+}
+.contact-page-header .input {
+  border-radius: 8px;
+  border: 1px solid #DAE0E9;
+  background: #FFFFFF;
+  padding: 13px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page-header .input-field {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page-header .label-1 {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodymedium-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodymedium-font-weight, 500);
+  font-size: var(--bodymedium-font-size, 18px);
+  line-height: var(--bodymedium-line-height, 1.556);
+  color: #121826;
+}
+.contact-page-header .text-2 {
+  overflow-wrap: break-word;
+  font-family: var(--bodyregular-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodyregular-font-weight, 400);
+  font-size: var(--bodyregular-font-size, 18px);
+  line-height: var(--bodyregular-line-height, 1.556);
+  color: #808187;
+}
+.contact-page-header .input-1 {
+  border-radius: 8px;
+  border: 1px solid #DAE0E9;
+  background: #FFFFFF;
+  padding: 13px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page-header .input-field-1 {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page-header .label-2 {
+  margin-bottom: 6px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: var(--bodymedium-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodymedium-font-weight, 500);
+  font-size: var(--bodymedium-font-size, 18px);
+  line-height: var(--bodymedium-line-height, 1.556);
+  color: #121826;
+}
+.contact-page-header .text-3 {
+  overflow-wrap: break-word;
+  font-family: var(--bodyregular-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodyregular-font-weight, 400);
+  font-size: var(--bodyregular-font-size, 18px);
+  line-height: var(--bodyregular-line-height, 1.556);
+  color: #808187;
+}
+.contact-page-header .input-2 {
+  border-radius: 8px;
+  border: 1px solid #DAE0E9;
+  background: #FFFFFF;
+  padding: 13px 15px 77px 15px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page-header .textarea-input-field {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page-header .checkbox-1 {
+  border-radius: 6px;
+  border: 1px solid #DAE0E9;
+  background: #FFFFFF;
+  margin: 4px 12px 0 0;
+  width: 20px;
+  height: 20px;
+}
+.contact-page-header .text {
+  overflow-wrap: break-word;
+  font-family: var(--bodyregular-1-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodyregular-1-font-weight, 400);
+  font-size: var(--bodyregular-1-font-size, 18px);
+  line-height: var(--bodyregular-1-line-height, 1.556);
+  color: #121826;
+}
+.text-sub16 {
+  font-family: 'Gilroy', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.333;
+  color: #121826;
+}
+.text-sub14 {
+  font-family: 'Gilroy', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration-line: underline;
+  line-height: 1.333;
+  color: #121826;
+}
+.text {
+  font-family: 'Gilroy', 'Roboto Condensed';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.333;
+  color: #121826;
+}
+.contact-page-header .checkbox {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page-header .form-fields {
+  margin-bottom: 36px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page-header .start-reading {
+  margin-right: 17.7px;
+  overflow-wrap: break-word;
+  font-family: var(--bodysemibold-1-font-family, 'Gilroy', 'Roboto Condensed');
+  font-weight: var(--bodysemibold-1-font-weight, 600);
+  font-size: var(--bodysemibold-1-font-size, 18px);
+  line-height: var(--bodysemibold-1-line-height, 1.556);
+  color: #FFFFFF;
+}
+.contact-page-header .icon {
+  width: 14px;
+  height: 14px;
+}
+.contact-page-header .icons {
+  margin: 7px 0;
+  display: flex;
+  width: 14px;
+  height: 14px;
+  box-sizing: border-box;
+}
+.contact-page-header .button {
+  border-radius: 10px;
+  background: #121826;
+  display: flex;
+  flex-direction: row;
+  padding: 14px 0;
+  width: 480px;
+  box-sizing: border-box;
+}
+.contact-page-header .form {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.contact-page-header .content {
+  display: flex;
+  flex-direction: column;
+  width: 480px;
+  box-sizing: border-box;
+}
+.contact-page-header {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: row;
+  padding: 91px 0 0 120px;
+  width: 1440px;
+  box-sizing: border-box;
+}
