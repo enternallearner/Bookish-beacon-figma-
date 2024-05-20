@@ -18,3 +18,6 @@ Provides links for easy navigation.
 Includes a prominent “Get Started” button.
 Contact
 For more information, visit our website or reach out through Frame 427320339.
+
+deploy link throw netlify
+https://664b4897a3827c8561c9101d--glowing-kashata-a1b0ec.netlify.app/
